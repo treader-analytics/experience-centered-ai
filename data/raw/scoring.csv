@@ -1,0 +1,17 @@
+company_id,company,industry,experience_intensity,ai_enhancement,repeat_usage,agency_preservation,revenue_capture,network_effects,experience_ai_score
+1,Peloton,Fitness,10,9,8,9,8,6,8.65
+2,Planet Fitness,Fitness,7,6,7,8,8,4,6.75
+3,Duolingo,Education,9,10,10,9,9,7,9.2
+4,Coursera,Education,8,8,7,8,7,5,7.4
+5,Roblox,Gaming,10,9,10,10,9,10,9.7
+6,Electronic Arts,Gaming,9,8,8,8,9,7,8.25
+7,Intuit,Personal Finance,6,9,8,5,10,6,7.25
+8,SoFi,Personal Finance,6,8,7,6,8,5,6.7
+9,Airbnb,Travel,8,8,5,8,9,10,7.7
+10,Booking Holdings,Travel,6,7,5,6,10,8,6.6
+11,Netlix,Entertainment,8,8,9,5,9,9,7.95
+12,Spotify,Entertainment,8,9,10,7,8,7,8.35
+13,HelloFresh,Food/Cooking,8,8,7,9,7,7,7.75
+14,Sweetgreen,Food/Cooking,6,7,6,6,7,7,6.4
+15,Match Group,Dating,9,9,9,8,9,9,8.85
+16,Bumble,Dating,9,9,9,8,8,8,8.65
